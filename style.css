@@ -1,0 +1,45 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 20px;
+}
+.green-box {
+    height: 150px;
+    background-color: green;
+}
+.row{
+    display: flex;
+    margin-top: 20px;
+    vertical-align: top;
+    /* padding: 10px; */
+    justify-content: space-between;
+}
+.blue-box {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+}
+.red-box {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    padding: 15px;
+}
+.yellow-box {
+    display: flex;
+    /* margin: 15px; */
+
+}
+.yellow-box1 {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin-right: 15px;
+}
+#purple-box {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin-top: 30px;
+}
